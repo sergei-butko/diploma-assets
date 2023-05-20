@@ -1,0 +1,185 @@
+{
+  "product": {
+    "externalId": "sofa",
+    "id": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+    "title": "Sofa",
+    "price": 25.0
+  },
+  "modelVariants": [
+    {
+      "id": "051624ac-413a-40ec-b765-3e7e61a0496c",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "title": "Default",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "855cd57c-11a2-4047-b2d9-89e087c8a953",
+        "name": "Sofa Variant"
+      },
+      "isDefault": false
+    },
+    {
+      "id": "57d1eee4-16c5-41e5-af98-32ec7854da1b",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "title": "L-Shape Left",
+      "price": 20.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "855cd57c-11a2-4047-b2d9-89e087c8a953",
+        "name": "Sofa Variant"
+      },
+      "isDefault": false
+    },
+    {
+      "id": "d1395387-46a0-4660-b0f2-0000a3bdefbe",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "title": "L-Shape Right",
+      "price": 20.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "855cd57c-11a2-4047-b2d9-89e087c8a953",
+        "name": "Sofa Variant"
+      },
+      "isDefault": false
+    },
+    {
+      "id": "12e809c2-5c54-4f90-a188-35e34836b42e",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "title": "Long",
+      "price": 30.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "855cd57c-11a2-4047-b2d9-89e087c8a953",
+        "name": "Sofa Variant"
+      },
+      "isDefault": true
+    }
+  ],
+  "materialVariants": [
+    {
+      "materialId": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "isActiveOnScene": false,
+      "id": "91362351-4e8a-4d26-924a-75c18e3d318a",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "title": "Light Gray",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "0d547db8-8b1b-4d65-821e-05ea664c1d03",
+        "name": "Sofa Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "isActiveOnScene": false,
+      "id": "a109d65e-7e73-4419-b8cd-722587c22baa",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "title": "Dark Gray",
+      "price": 15.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "0d547db8-8b1b-4d65-821e-05ea664c1d03",
+        "name": "Sofa Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "0362d462-3900-4a5d-820b-41ba04c81738",
+      "isActiveOnScene": false,
+      "id": "6885ee3a-b35b-4db5-b0f2-dc41ac8ad9bb",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "title": "Pink",
+      "price": 20.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "0d547db8-8b1b-4d65-821e-05ea664c1d03",
+        "name": "Sofa Material"
+      },
+      "isDefault": false
+    }
+  ],
+  "variantSets": [
+    {
+      "id": "65c858c8-85fb-4246-badf-44324b151435",
+      "title": "Light Gray Long Sofa",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "selectedVariantsIds": [
+        "12e809c2-5c54-4f90-a188-35e34836b42e",
+        "91362351-4e8a-4d26-924a-75c18e3d318a"
+      ]
+    },
+    {
+      "id": "968bca91-e007-4865-9790-0da5f53c56c0",
+      "title": "Pink L-Shape Left Sofa",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "selectedVariantsIds": [
+        "57d1eee4-16c5-41e5-af98-32ec7854da1b",
+        "6885ee3a-b35b-4db5-b0f2-dc41ac8ad9bb"
+      ]
+    },
+    {
+      "id": "de1d4e10-bc17-48d1-b30c-1128e7a60344",
+      "title": "Dark Gray Default Sofa",
+      "productId": "7b07359b-08fb-4bc1-9d59-7451a3a4a284",
+      "selectedVariantsIds": [
+        "a109d65e-7e73-4419-b8cd-722587c22baa",
+        "051624ac-413a-40ec-b765-3e7e61a0496c"
+      ]
+    }
+  ],
+  "variantGroups": [
+    {
+      "type": 2,
+      "id": "0d547db8-8b1b-4d65-821e-05ea664c1d03",
+      "name": "Sofa Material"
+    },
+    {
+      "type": 1,
+      "id": "855cd57c-11a2-4047-b2d9-89e087c8a953",
+      "name": "Sofa Variant"
+    }
+  ],
+  "materials": [
+    {
+      "id": "211649b5-c893-4c27-bac4-504721c3798d",
+      "name": "Green"
+    },
+    {
+      "id": "966f40ed-7d83-48ab-b334-6b8a963d5a1b",
+      "name": "Rose"
+    },
+    {
+      "id": "0362d462-3900-4a5d-820b-41ba04c81738",
+      "name": "Pink Fabric"
+    },
+    {
+      "id": "8982fde2-14f4-4dc3-aef7-aa6c070dbcc9",
+      "name": "Black Metal"
+    },
+    {
+      "id": "b6103a35-eee5-4270-ab83-3a06f833e0d4",
+      "name": "Grey Metal"
+    },
+    {
+      "id": "fc53995c-16f2-47f0-a056-c26fd895a019",
+      "name": "Gold Metal"
+    },
+    {
+      "id": "10d25aba-02b0-4cb2-9dfa-709076dcbab3",
+      "name": "Red Leather"
+    },
+    {
+      "id": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "name": "Light Grey Fabric"
+    },
+    {
+      "id": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "name": "Dark Grey Fabric"
+    },
+    {
+      "id": "5cf70982-5278-4da0-bc2e-6343304aaf11",
+      "name": "Brown"
+    }
+  ]
+}

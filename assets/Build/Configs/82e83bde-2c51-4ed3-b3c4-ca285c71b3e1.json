@@ -1,0 +1,295 @@
+{
+  "product": {
+    "externalId": "chair",
+    "id": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+    "title": "Chair",
+    "price": 0.0
+  },
+  "modelVariants": [
+    {
+      "id": "9c41458f-1d9c-4117-8859-27a2ae9e7d09",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Small",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "3bea343e-d0ed-4e37-93f0-43fd26353fff",
+        "name": "Seat Variant"
+      },
+      "isDefault": true
+    },
+    {
+      "id": "0228642a-25a9-4a70-a07a-8af2718825b9",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Medium",
+      "price": 15.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "3bea343e-d0ed-4e37-93f0-43fd26353fff",
+        "name": "Seat Variant"
+      },
+      "isDefault": false
+    },
+    {
+      "id": "5653979a-1c3b-45ea-8baf-d3a229766553",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Large",
+      "price": 20.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "3bea343e-d0ed-4e37-93f0-43fd26353fff",
+        "name": "Seat Variant"
+      },
+      "isDefault": false
+    },
+    {
+      "id": "6703a5f6-3f61-4318-8d89-f7724ad16677",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Small",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "d22405fb-bcde-4404-9661-dc7bcd4adc61",
+        "name": "Legs Variant"
+      },
+      "isDefault": true
+    },
+    {
+      "id": "b30d48c5-86cc-42fc-93c8-30226ff36e03",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Medium",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "d22405fb-bcde-4404-9661-dc7bcd4adc61",
+        "name": "Legs Variant"
+      },
+      "isDefault": false
+    },
+    {
+      "id": "ec5858fe-d06d-40c6-aeec-99d5ba47910d",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Single",
+      "price": 15.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "d22405fb-bcde-4404-9661-dc7bcd4adc61",
+        "name": "Legs Variant"
+      },
+      "isDefault": false
+    }
+  ],
+  "materialVariants": [
+    {
+      "materialId": "211649b5-c893-4c27-bac4-504721c3798d",
+      "isActiveOnScene": false,
+      "id": "b61de8d9-0d9c-4f59-aca5-ecfbdf5490f2",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Green",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "03a4d11e-66f5-48d3-876f-279faf1b44c5",
+        "name": "Seat Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "10d25aba-02b0-4cb2-9dfa-709076dcbab3",
+      "isActiveOnScene": false,
+      "id": "414e7078-a586-4380-8aba-cd2d5e78e99d",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Red Leather",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "03a4d11e-66f5-48d3-876f-279faf1b44c5",
+        "name": "Seat Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "isActiveOnScene": false,
+      "id": "18364c6c-8ed1-41c1-a167-847d567b2238",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Dark Grey",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "03a4d11e-66f5-48d3-876f-279faf1b44c5",
+        "name": "Seat Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "isActiveOnScene": false,
+      "id": "18da738b-303c-4ea4-972c-1e88fb6bb34a",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Light Grey",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "03a4d11e-66f5-48d3-876f-279faf1b44c5",
+        "name": "Seat Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "5cf70982-5278-4da0-bc2e-6343304aaf11",
+      "isActiveOnScene": false,
+      "id": "8cb517f7-f17b-4691-afab-83ae140ae6bc",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Brown",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "79102372-a7d6-4af2-9320-888f2747d7cf",
+        "name": "Legs Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "966f40ed-7d83-48ab-b334-6b8a963d5a1b",
+      "isActiveOnScene": false,
+      "id": "e69e2e7f-3e60-4f64-8eac-c58ec90fda46",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Rose",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "79102372-a7d6-4af2-9320-888f2747d7cf",
+        "name": "Legs Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "b6103a35-eee5-4270-ab83-3a06f833e0d4",
+      "isActiveOnScene": false,
+      "id": "92e05587-f9c5-4b78-b2ca-767d64cbd7fb",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Grey",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "79102372-a7d6-4af2-9320-888f2747d7cf",
+        "name": "Legs Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "fc53995c-16f2-47f0-a056-c26fd895a019",
+      "isActiveOnScene": false,
+      "id": "d0672c1c-2a2b-4f85-802e-298a65add830",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "title": "Gold",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "79102372-a7d6-4af2-9320-888f2747d7cf",
+        "name": "Legs Material"
+      },
+      "isDefault": false
+    }
+  ],
+  "variantSets": [
+    {
+      "id": "944a1e8b-2657-473a-8143-e234c2701c2b",
+      "title": "Standard Green",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "selectedVariantsIds": [
+        "9c41458f-1d9c-4117-8859-27a2ae9e7d09",
+        "6703a5f6-3f61-4318-8d89-f7724ad16677",
+        "b61de8d9-0d9c-4f59-aca5-ecfbdf5490f2",
+        "8cb517f7-f17b-4691-afab-83ae140ae6bc"
+      ]
+    },
+    {
+      "id": "6bec743c-f847-4d86-a97d-98f5ddc8e1fa",
+      "title": "Rose Single Leg",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "selectedVariantsIds": [
+        "e69e2e7f-3e60-4f64-8eac-c58ec90fda46",
+        "414e7078-a586-4380-8aba-cd2d5e78e99d",
+        "ec5858fe-d06d-40c6-aeec-99d5ba47910d",
+        "5653979a-1c3b-45ea-8baf-d3a229766553"
+      ]
+    },
+    {
+      "id": "5ab1a0f4-ff44-4e5a-aa81-2af7a4818c4f",
+      "title": "Office Grey",
+      "productId": "82e83bde-2c51-4ed3-b3c4-ca285c71b3e1",
+      "selectedVariantsIds": [
+        "b30d48c5-86cc-42fc-93c8-30226ff36e03",
+        "0228642a-25a9-4a70-a07a-8af2718825b9",
+        "92e05587-f9c5-4b78-b2ca-767d64cbd7fb",
+        "18364c6c-8ed1-41c1-a167-847d567b2238"
+      ]
+    }
+  ],
+  "variantGroups": [
+    {
+      "type": 1,
+      "id": "3bea343e-d0ed-4e37-93f0-43fd26353fff",
+      "name": "Seat Variant"
+    },
+    {
+      "type": 1,
+      "id": "d22405fb-bcde-4404-9661-dc7bcd4adc61",
+      "name": "Legs Variant"
+    },
+    {
+      "type": 2,
+      "id": "03a4d11e-66f5-48d3-876f-279faf1b44c5",
+      "name": "Seat Material"
+    },
+    {
+      "type": 2,
+      "id": "79102372-a7d6-4af2-9320-888f2747d7cf",
+      "name": "Legs Material"
+    }
+  ],
+  "materials": [
+    {
+      "id": "211649b5-c893-4c27-bac4-504721c3798d",
+      "name": "Green"
+    },
+    {
+      "id": "966f40ed-7d83-48ab-b334-6b8a963d5a1b",
+      "name": "Rose"
+    },
+    {
+      "id": "0362d462-3900-4a5d-820b-41ba04c81738",
+      "name": "Pink Fabric"
+    },
+    {
+      "id": "8982fde2-14f4-4dc3-aef7-aa6c070dbcc9",
+      "name": "Black Metal"
+    },
+    {
+      "id": "b6103a35-eee5-4270-ab83-3a06f833e0d4",
+      "name": "Grey Metal"
+    },
+    {
+      "id": "fc53995c-16f2-47f0-a056-c26fd895a019",
+      "name": "Gold Metal"
+    },
+    {
+      "id": "10d25aba-02b0-4cb2-9dfa-709076dcbab3",
+      "name": "Red Leather"
+    },
+    {
+      "id": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "name": "Light Grey Fabric"
+    },
+    {
+      "id": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "name": "Dark Grey Fabric"
+    },
+    {
+      "id": "5cf70982-5278-4da0-bc2e-6343304aaf11",
+      "name": "Brown"
+    }
+  ]
+}

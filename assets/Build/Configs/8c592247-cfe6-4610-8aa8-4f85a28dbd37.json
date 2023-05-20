@@ -1,0 +1,409 @@
+{
+  "product": {
+    "externalId": "headset",
+    "id": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+    "title": "Headset",
+    "price": 0.0
+  },
+  "modelVariants": [
+    {
+      "id": "003e3ace-f978-49e4-8e07-4cba4d5d3a4c",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Without microphone",
+      "price": 50.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "93a3cc24-1390-49b5-9cf3-190c71f253a3",
+        "name": "Headset Variant"
+      },
+      "isDefault": false
+    },
+    {
+      "id": "003ca141-54ce-4d66-b84a-b4b416ffd20e",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "With microphone",
+      "price": 60.0,
+      "variantGroup": {
+        "type": 1,
+        "id": "93a3cc24-1390-49b5-9cf3-190c71f253a3",
+        "name": "Headset Variant"
+      },
+      "isDefault": true
+    }
+  ],
+  "materialVariants": [
+    {
+      "materialId": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "isActiveOnScene": false,
+      "id": "fcd8ea52-4208-449d-b9f5-68e39a531480",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Dark Grey",
+      "price": 0.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "56c5ddd3-ea75-421f-97d2-599266dc2a74",
+        "name": "Head Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "isActiveOnScene": false,
+      "id": "d7329ea7-b051-4eb4-99e1-cab774076853",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Brown",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "56c5ddd3-ea75-421f-97d2-599266dc2a74",
+        "name": "Head Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "0362d462-3900-4a5d-820b-41ba04c81738",
+      "isActiveOnScene": false,
+      "id": "1df67b01-0662-47ba-ae7c-82bef8a53162",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Red",
+      "price": 15.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "56c5ddd3-ea75-421f-97d2-599266dc2a74",
+        "name": "Head Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "8982fde2-14f4-4dc3-aef7-aa6c070dbcc9",
+      "isActiveOnScene": false,
+      "id": "94ac4ea4-0a73-47ce-810e-e2045724b1a2",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Black",
+      "price": 0.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "cffd36c7-1a6a-4b22-8870-05ca10a845e3",
+        "name": "Mounting Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "b6103a35-eee5-4270-ab83-3a06f833e0d4",
+      "isActiveOnScene": false,
+      "id": "71f0988d-6211-486a-96b7-736bebed4167",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Grey",
+      "price": 5.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "cffd36c7-1a6a-4b22-8870-05ca10a845e3",
+        "name": "Mounting Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "0362d462-3900-4a5d-820b-41ba04c81738",
+      "isActiveOnScene": false,
+      "id": "df40a674-06ab-4fd8-a69b-278571897abe",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Red",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "cffd36c7-1a6a-4b22-8870-05ca10a845e3",
+        "name": "Mounting Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "8982fde2-14f4-4dc3-aef7-aa6c070dbcc9",
+      "isActiveOnScene": false,
+      "id": "811a6a0c-30e3-4de2-a732-dd0164c036c5",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Black",
+      "price": 0.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "40452201-34f3-4f88-a95e-a9cbedcc4076",
+        "name": "Frame Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "b6103a35-eee5-4270-ab83-3a06f833e0d4",
+      "isActiveOnScene": false,
+      "id": "6a70ebd9-236e-4e31-90b5-25d9e3c28e17",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Grey",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "40452201-34f3-4f88-a95e-a9cbedcc4076",
+        "name": "Frame Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "fc53995c-16f2-47f0-a056-c26fd895a019",
+      "isActiveOnScene": false,
+      "id": "ee161552-bcb6-4049-b1cc-d6969e5350a1",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Gold",
+      "price": 20.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "40452201-34f3-4f88-a95e-a9cbedcc4076",
+        "name": "Frame Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "8982fde2-14f4-4dc3-aef7-aa6c070dbcc9",
+      "isActiveOnScene": false,
+      "id": "2aced77b-b2de-43ef-8f92-adacef70dbac",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Black",
+      "price": 5.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "cdac9e6b-8918-4519-ae6d-9a33e5cc76b4",
+        "name": "Cover Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "b6103a35-eee5-4270-ab83-3a06f833e0d4",
+      "isActiveOnScene": false,
+      "id": "260ea226-736d-47a0-89cd-efa1015ec9b1",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Grey",
+      "price": 5.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "cdac9e6b-8918-4519-ae6d-9a33e5cc76b4",
+        "name": "Cover Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "isActiveOnScene": false,
+      "id": "499be35e-19b2-4b47-880e-41dad53009de",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Dark Grey",
+      "price": 0.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "cdac9e6b-8918-4519-ae6d-9a33e5cc76b4",
+        "name": "Cover Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "0362d462-3900-4a5d-820b-41ba04c81738",
+      "isActiveOnScene": false,
+      "id": "c10e059a-2fc3-4929-b811-8943e121a5a7",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Red",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "cdac9e6b-8918-4519-ae6d-9a33e5cc76b4",
+        "name": "Cover Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "isActiveOnScene": false,
+      "id": "0e52d94f-c389-4fc7-b85c-dc619b688476",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Brown",
+      "price": 0.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "335ffd7f-560a-4cf0-8d3b-116783d36832",
+        "name": "Ear Pads Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "isActiveOnScene": false,
+      "id": "81573f76-9368-48cf-b06d-8be856119cfd",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Black",
+      "price": 5.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "335ffd7f-560a-4cf0-8d3b-116783d36832",
+        "name": "Ear Pads Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "0362d462-3900-4a5d-820b-41ba04c81738",
+      "isActiveOnScene": false,
+      "id": "8fb8c55b-b5c4-4d0d-af71-4a0175599fa0",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Red",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "335ffd7f-560a-4cf0-8d3b-116783d36832",
+        "name": "Ear Pads Material"
+      },
+      "isDefault": false
+    },
+    {
+      "materialId": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "isActiveOnScene": false,
+      "id": "72eb997f-5a16-4d0a-a7b5-609aee2b6839",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Brown",
+      "price": 10.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "4babd0f3-772b-4342-896d-f1cac4a72bcb",
+        "name": "Microphone Material"
+      },
+      "isDefault": true
+    },
+    {
+      "materialId": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "isActiveOnScene": false,
+      "id": "c0f7d38f-c6fc-4325-ad2a-fd897f94d82f",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "title": "Grey",
+      "price": 0.0,
+      "variantGroup": {
+        "type": 2,
+        "id": "4babd0f3-772b-4342-896d-f1cac4a72bcb",
+        "name": "Microphone Material"
+      },
+      "isDefault": false
+    }
+  ],
+  "variantSets": [
+    {
+      "id": "8345b0a2-ec57-4ed5-b22c-e15e8baa5250",
+      "title": "Red head and ear puds with gold metal and black parts with gray microphone",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "selectedVariantsIds": [
+        "003ca141-54ce-4d66-b84a-b4b416ffd20e",
+        "1df67b01-0662-47ba-ae7c-82bef8a53162",
+        "8fb8c55b-b5c4-4d0d-af71-4a0175599fa0",
+        "94ac4ea4-0a73-47ce-810e-e2045724b1a2",
+        "ee161552-bcb6-4049-b1cc-d6969e5350a1",
+        "499be35e-19b2-4b47-880e-41dad53009de",
+        "c0f7d38f-c6fc-4325-ad2a-fd897f94d82f"
+      ]
+    },
+    {
+      "id": "1bbd4d40-5f91-47ec-9695-8da5d8a21b83",
+      "title": "Brown soft parts with dark hard parts and red covers",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "selectedVariantsIds": [
+        "003e3ace-f978-49e4-8e07-4cba4d5d3a4c",
+        "d7329ea7-b051-4eb4-99e1-cab774076853",
+        "0e52d94f-c389-4fc7-b85c-dc619b688476",
+        "c10e059a-2fc3-4929-b811-8943e121a5a7",
+        "6a70ebd9-236e-4e31-90b5-25d9e3c28e17",
+        "94ac4ea4-0a73-47ce-810e-e2045724b1a2"
+      ]
+    },
+    {
+      "id": "f502a46e-421a-464f-8440-e174e7a2878b",
+      "title": "Dark soft materials with light hard and red accents",
+      "productId": "8c592247-cfe6-4610-8aa8-4f85a28dbd37",
+      "selectedVariantsIds": [
+        "df40a674-06ab-4fd8-a69b-278571897abe",
+        "003e3ace-f978-49e4-8e07-4cba4d5d3a4c",
+        "6a70ebd9-236e-4e31-90b5-25d9e3c28e17",
+        "fcd8ea52-4208-449d-b9f5-68e39a531480",
+        "260ea226-736d-47a0-89cd-efa1015ec9b1",
+        "81573f76-9368-48cf-b06d-8be856119cfd"
+      ]
+    }
+  ],
+  "variantGroups": [
+    {
+      "type": 1,
+      "id": "93a3cc24-1390-49b5-9cf3-190c71f253a3",
+      "name": "Headset Variant"
+    },
+    {
+      "type": 2,
+      "id": "56c5ddd3-ea75-421f-97d2-599266dc2a74",
+      "name": "Head Material"
+    },
+    {
+      "type": 2,
+      "id": "cdac9e6b-8918-4519-ae6d-9a33e5cc76b4",
+      "name": "Cover Material"
+    },
+    {
+      "type": 2,
+      "id": "335ffd7f-560a-4cf0-8d3b-116783d36832",
+      "name": "Ear Pads Material"
+    },
+    {
+      "type": 2,
+      "id": "40452201-34f3-4f88-a95e-a9cbedcc4076",
+      "name": "Frame Material"
+    },
+    {
+      "type": 2,
+      "id": "4babd0f3-772b-4342-896d-f1cac4a72bcb",
+      "name": "Microphone Material"
+    },
+    {
+      "type": 2,
+      "id": "cffd36c7-1a6a-4b22-8870-05ca10a845e3",
+      "name": "Mounting Material"
+    }
+  ],
+  "materials": [
+    {
+      "id": "211649b5-c893-4c27-bac4-504721c3798d",
+      "name": "Green"
+    },
+    {
+      "id": "966f40ed-7d83-48ab-b334-6b8a963d5a1b",
+      "name": "Rose"
+    },
+    {
+      "id": "0362d462-3900-4a5d-820b-41ba04c81738",
+      "name": "Pink Fabric"
+    },
+    {
+      "id": "8982fde2-14f4-4dc3-aef7-aa6c070dbcc9",
+      "name": "Black Metal"
+    },
+    {
+      "id": "b6103a35-eee5-4270-ab83-3a06f833e0d4",
+      "name": "Grey Metal"
+    },
+    {
+      "id": "fc53995c-16f2-47f0-a056-c26fd895a019",
+      "name": "Gold Metal"
+    },
+    {
+      "id": "10d25aba-02b0-4cb2-9dfa-709076dcbab3",
+      "name": "Red Leather"
+    },
+    {
+      "id": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "name": "Light Grey Fabric"
+    },
+    {
+      "id": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "name": "Dark Grey Fabric"
+    },
+    {
+      "id": "5cf70982-5278-4da0-bc2e-6343304aaf11",
+      "name": "Brown"
+    }
+  ]
+}
