@@ -142,12 +142,12 @@
   ],
   "materials": [
     {
-      "id": "211649b5-c893-4c27-bac4-504721c3798d",
-      "name": "Green"
+      "id": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
+      "name": "Light Grey Fabric"
     },
     {
-      "id": "966f40ed-7d83-48ab-b334-6b8a963d5a1b",
-      "name": "Rose"
+      "id": "1f4cb043-b576-4d79-a515-bc259724e496",
+      "name": "Dark Grey Fabric"
     },
     {
       "id": "0362d462-3900-4a5d-820b-41ba04c81738",
@@ -170,12 +170,12 @@
       "name": "Red Leather"
     },
     {
-      "id": "291f7d1f-f4e6-4287-8aad-47c4d3285274",
-      "name": "Light Grey Fabric"
+      "id": "966f40ed-7d83-48ab-b334-6b8a963d5a1b",
+      "name": "Rose"
     },
     {
-      "id": "1f4cb043-b576-4d79-a515-bc259724e496",
-      "name": "Dark Grey Fabric"
+      "id": "211649b5-c893-4c27-bac4-504721c3798d",
+      "name": "Green"
     },
     {
       "id": "5cf70982-5278-4da0-bc2e-6343304aaf11",
